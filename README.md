@@ -1,2 +1,2 @@
-# Word_Embedding_Demonstration_CSE_354
+# Word Embedding Demonstration
 Word embedding demonstration for CSE 354
